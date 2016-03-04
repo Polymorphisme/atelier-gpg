@@ -1,2 +1,3 @@
 # atelier-gpg
-Documents about GPG.
+Documentation about GPG.
+
